@@ -1,6 +1,6 @@
 ## Restaurant Landing Page
 
-- https://boisterous-twilight-dc1259.netlify.app/ - Netlify App.
+# [Netlify App](https://boisterous-twilight-dc1259.netlify.app/)  
 - Website Using HTML CSS JavaScript and React.
 - React Functional components and their reusability.
 - React file and folder structure.
